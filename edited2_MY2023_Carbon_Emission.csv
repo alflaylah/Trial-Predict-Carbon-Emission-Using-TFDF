@@ -1,4 +1,4 @@
-Engine_Size_L,Cylinders,Fuel_Consumption_City_L/100km,Fuel_Consumption_Hwy_L/100km,Fuel_Consumption_Comb_L/100km,Fuel_Consumption_Comb_mpg,CO2_Emissions_g/km
+EngineSize(L),Cylinders,FuelConsumption_City(L/100km),FuelConsumption_Hwy(L/100km),FuelConsumption_Comb(L/100km),FuelConsumption_Comb(mpg),CO2_Emissions(g/km)
 1.5,4,7.9,6.3,7.2,39,167
 1.5,4,8.1,6.5,7.4,38,172
 1.5,4,8.9,6.5,7.8,36,181
